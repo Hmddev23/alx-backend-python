@@ -5,6 +5,7 @@ provide mathematical functions.
 
 import math
 
+
 def floor(n: float) -> int:
     """
     return the largest integer less than or equal to a given number.

@@ -10,7 +10,7 @@ def to_str(n: float) -> str:
     convert a floating-point number to a string.
     
     Parameters:
-        n (float): A floating-point number to be converted to a string.
+        n (float): number to be converted to a string.
     
     Returns:
         str: The string representation of the input number.
